@@ -11,8 +11,7 @@ public static class Kata
         if (glasns.Contains(str[i]) )
             vowelCount++;
         /*if (vowels.IndexOf(str[i]) != -1)
-                vowelCount++;*/
-        
+                vowelCount++;*/  
     }
     return vowelCount;
     }
